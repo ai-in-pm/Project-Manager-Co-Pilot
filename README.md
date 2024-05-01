@@ -5,7 +5,7 @@ Welcome to the Voice to Voice Project Manager Co-Pilot repository! This innovati
 
 Features
 
--Natural language processing powered by OpenAI's ChatGPT
+-Natural language processing powered by OpenAI's ChatGPT.  
 -Voice-based interaction using Eleven Labs' realistic voice synthesis
 
 Getting Started
