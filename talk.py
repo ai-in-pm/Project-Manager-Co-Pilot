@@ -49,7 +49,7 @@ def text_to_speech(text, voice_id, api_key):
     }
     data = {
         'text': text,
-        'voice_id': 'GSdCDsEQ40VRW6DQbETf',
+        'voice_id': '',
         'model_id': 'eleven_turbo_v2',
         'voice_settings': {
             'stability': 0.5,
