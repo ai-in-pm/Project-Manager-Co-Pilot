@@ -13,7 +13,7 @@ To get started with the Voice to Voice Project Manager Co-Pilot, follow these st
 
 1. Clone this repository to your local machine.
    
-   Copy or type out this command line onto your Command Prompt - git clone
+   Copy or type out this command line onto your Command Prompt - git clone https://github.com/ai-in-pm/Project-Manager-Co-Pilot.git
 
 3. CD into the Directory.
    
