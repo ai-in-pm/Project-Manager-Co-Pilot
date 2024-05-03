@@ -1,6 +1,8 @@
 # Project-Manager-Co-Pilot
 Voice to Voice Project Manager Co-Pilot using OpenAI ChatGPT and Eleven Labs
 
+"This GitHub Repository was inspired by Kris from All About AI"
+
 Welcome to the Voice to Voice Project Manager Co-Pilot repository! This innovative project aims to revolutionize project management by leveraging the power of OpenAI's ChatGPT and Eleven Labs' voice synthesis technology. The goal is to create an intelligent, voice-activated assistant that can help project managers streamline their workflows, communicate effectively with team members, and make data-driven decisions.
 
 Features
